@@ -448,4 +448,11 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
+  <wpt lat="55.611631" lon="36.536353">
+    <name>48 Куст Орешника (с бумаги)</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
 </gpx>
