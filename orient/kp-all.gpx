@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2018-05-30T20:19:11Z</time>
+    <link href="http://www.sasgis.org/">
+      <text>SAS.Planet</text>
+    </link>
+    <name>37</name>
+    <author>
+      <name>grwahr</name>
+    </author>
+    <bounds maxlat="55.605357" maxlon="36.551224" minlat="55.611926" minlon="36.531143"/>
+  </metadata>
+  <wpt lat="55.606423" lon="36.544864">
+    <name>37</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.60623" lon="36.545529">
+    <name>38</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.606144" lon="36.545851">
+    <name>39</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.609127" lon="36.546452">
+    <name>54</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.606574" lon="36.550443">
+    <name>55</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.605608" lon="36.550829">
+    <name>58</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.605522" lon="36.549949">
+    <name>60</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.605715" lon="36.548812">
+    <name>61</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.60578" lon="36.547804">
+    <name>62</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.605357" lon="36.551224">
+    <name>56</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>1.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>1.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.609148" lon="36.543854">
+    <name>53 столбик</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.61101" lon="36.540823">
+    <name>50 столбик</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.611926" lon="36.537435">
+    <name>49 поленница</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.610418" lon="36.53462">
+    <name>46 ОВРАГ</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.607971" lon="36.533439">
+    <name>22 скальный выход</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.60819" lon="36.533126">
+    <name>21 скальный выход</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.60752" lon="36.531143">
+    <name>30 ниша</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.607735" lon="36.534772">
+    <name>34 стенка</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="55.607425" lon="36.539189">
+    <name>36 СТЕНКА2</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\ylw-diamond.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>к-п 2018</gpxx:Category>
+          <gpxx:Category>2.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>к-п 2018</wptx1:Category>
+          <wptx1:Category>2.gpx</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+</gpx>
