@@ -11,6 +11,18 @@
     </author>
     <bounds maxlat="55.605357" maxlon="36.551224" minlat="55.611926" minlon="36.531143"/>
   </metadata>
+
+  <!-- class A -->
+  <wpt lat="55.610418" lon="36.534719">
+    <name>46.ОВРАГ</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.613297" lon="36.536353">
+    <name>48.КУСТ.ОРЕШНИКА</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
   <wpt lat="55.606423" lon="36.544864">
     <name>37</name>
     <fix>2d</fix>
@@ -310,29 +322,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="55.610418" lon="36.53462">
-    <name>46 ОВРАГ</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\ylw-diamond.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>к-п 2018</gpxx:Category>
-          <gpxx:Category>2.gpx</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>к-п 2018</wptx1:Category>
-          <wptx1:Category>2.gpx</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="55.607971" lon="36.533439">
     <name>22 скальный выход</name>
     <fix>2d</fix>
@@ -447,12 +436,6 @@
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
-  </wpt>
-  <wpt lat="55.611631" lon="36.536353">
-    <name>48 Куст Орешника (с бумаги)</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
   </wpt>
 
 </gpx>
