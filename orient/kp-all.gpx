@@ -47,6 +47,11 @@
     <sym>Flag, Blue</sym>
   </wpt>
 
+  <wpt lat="55.609142" lon="36.543858">
+    <name>53.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
   <wpt lat="55.606423" lon="36.544864">
     <name>37</name>
     <fix>2d</fix>
@@ -273,29 +278,6 @@
         <wptx1:Categories>
           <wptx1:Category>к-п 2018</wptx1:Category>
           <wptx1:Category>1.gpx</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="55.609148" lon="36.543854">
-    <name>53 столбик</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\ylw-diamond.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>к-п 2018</gpxx:Category>
-          <gpxx:Category>2.gpx</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>к-п 2018</wptx1:Category>
-          <wptx1:Category>2.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
