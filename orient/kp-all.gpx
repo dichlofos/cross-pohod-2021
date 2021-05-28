@@ -23,6 +23,21 @@
     <sym>Flag, Blue</sym>
   </wpt>
 
+  <wpt lat="55.611926" lon="36.537449">
+    <name>49.ПОЛЕННИЦА</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.61101" lon="36.540823">
+    <name>50.ОПУШКА,ИЗГИБ.v1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="55.611361" lon="36.539917">
+    <name>50.ОПУШКА,ИЗГИБ.v2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+
   <wpt lat="55.606423" lon="36.544864">
     <name>37</name>
     <fix>2d</fix>
@@ -276,52 +291,7 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="55.61101" lon="36.540823">
-    <name>50 столбик</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\ylw-diamond.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>к-п 2018</gpxx:Category>
-          <gpxx:Category>2.gpx</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>к-п 2018</wptx1:Category>
-          <wptx1:Category>2.gpx</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="55.611926" lon="36.537435">
-    <name>49 поленница</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\ylw-diamond.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>к-п 2018</gpxx:Category>
-          <gpxx:Category>2.gpx</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>к-п 2018</wptx1:Category>
-          <wptx1:Category>2.gpx</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
+
   <wpt lat="55.607971" lon="36.533439">
     <name>22 скальный выход</name>
     <fix>2d</fix>
