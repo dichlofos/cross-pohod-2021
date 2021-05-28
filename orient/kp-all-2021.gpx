@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2021-05-28T00:00:00Z</time>
+    <name>Cross-pohod-2021</name>
+    <author>
+      <name>mvel</name>
+    </author>
+    <bounds maxlat="55.605357" maxlon="36.551224" minlat="55.611926" minlon="36.531143"/>
+  </metadata>
+
+  <!-- class A -->
+  <wpt lat="55.610418" lon="36.534719">
+    <name>46.ОВРАГ</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.613297" lon="36.536353">
+    <name>48.КУСТ.ОРЕШНИКА</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.611926" lon="36.537449">
+    <name>49.ПОЛЕННИЦА</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.61101" lon="36.540823">
+    <name>50.ОПУШКА,ИЗГИБ.v1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="55.611361" lon="36.539917">
+    <name>50.ОПУШКА,ИЗГИБ.v2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.611031" lon="36.540823">
+    <name>51.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.609744" lon="36.543975">
+    <name>52.УГОЛ.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.609142" lon="36.543858">
+    <name>53.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <!-- class Bplus -->
+
+  <!-- v1 -->
+  <wpt lat="55.60819" lon="36.533126">
+    <name>21.СКАЛЬНЫЙ ВЫХОД</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.607425" lon="36.539189">
+    <name>36.СТЕНКА-2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.60623" lon="36.545529">
+    <name>38</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <!-- v2 -->
+  <wpt lat="55.607971" lon="36.533439">
+    <name>22.СКАЛЬНЫЙ ВЫХОД</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <!-- 36 -->
+
+  <wpt lat="55.60752" lon="36.531143">
+    <name>30.НИША</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.607735" lon="36.534772">
+    <name>34.CТЕНКА</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.609127" lon="36.546452">
+    <name>54</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.605522" lon="36.549949">
+    <name>60</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.605715" lon="36.548812">
+    <name>61</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+</gpx>
