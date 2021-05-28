@@ -37,6 +37,15 @@
     <sym>Flag, Blue</sym>
   </wpt>
 
+  <wpt lat="55.611031" lon="36.540823">
+    <name>51.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <wpt lat="55.609744" lon="36.543975">
+    <name>52.УГОЛ.СТОЛБИК</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
 
   <wpt lat="55.606423" lon="36.544864">
     <name>37</name>
